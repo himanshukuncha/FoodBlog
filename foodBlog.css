@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Cookie&display=swap');
+
+.marchmadness {
+  font-family: 'Cookie', cursive;
+  font-size: 38px;
+  color: black;
+}
+
+.footerhd {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+
+.navbg {
+  background-color: #DAD7CD;
+}
+
+#extrastuff {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 750px;
+}
+
+.footercard {
+  height: 200px;
+}
+
+.signup {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bottom {
+  font-size: 12px;
+}
+
+.card1 {
+  transition-duration: 0.3s;
+  width: 19rem
+}
+
+.card2 {
+  transition-duration: 0.3s;
+  width: 19rem
+}
+
+.card3 {
+  transition-duration: 0.3s;
+  width: 19rem
+}
+
+.card4 {
+  transition-duration: 0.3s;
+  width: 19rem
+}
+
+.card1:hover {
+  background-color: white;
+  box-shadow: 0px 5px 20px #888888;
+  transition-duration: 0.3s;
+  width: 20rem
+}
+
+.card2:hover {
+  box-shadow: 0px 5px 20px #888888;
+  transition-duration: 0.3s;
+  width: 20rem
+}
+
+.card3:hover {
+  box-shadow: 0px 5px 20px #888888;
+  transition-duration: 0.3s;
+  width: 20rem
+}
+
+.card4:hover {
+  box-shadow: 0px 5px 20px #888888;
+  transition-duration: 0.3s;
+  width: 20rem
+}
+
+#blinks a {
+  color: white;
+  text-decoration: none;
+}
